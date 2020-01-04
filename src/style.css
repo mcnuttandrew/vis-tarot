@@ -204,6 +204,9 @@ body{
   justify-content: center;
   text-align: center;
 }
+.card-title--minor-arcana {
+  font-size: 12px;
+}
 
 /* just for generating a figure */
 .card-tip {
